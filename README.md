@@ -1,12 +1,15 @@
 # Reusable User Module (NestJs template)
 
+It's just a reusable module to manage users from a application.
+
 ## Todo list:
-- [ ] setup initial project settings
-- [ ] create a container
-- [ ] define project structure
+- [ ] initial project setup
+- [ ] Docker container
+- [ ] project structure
+- [ ] environments (files and variables)
 - [ ] Database integration (Mongo or Postgres)
+- [ ] automated workflow (Github actions)
 - [ ] update main readme
-- [ ] implement automated workflow (Github actions)
 - [x] ...
 
 ## Guidelines:
