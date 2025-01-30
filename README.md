@@ -3,7 +3,7 @@
 It's just a reusable module to manage users from a application.
 
 ## Todo list:
-- [ ] initial project setup
+- [x] initial project setup
 - [ ] Docker container
 - [ ] project structure
 - [ ] environments (files and variables)
